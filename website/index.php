@@ -4,4 +4,3 @@
     $a = 123;
     $b = 'vaware';
     dd;
-    cc;
