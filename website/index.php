@@ -7,3 +7,4 @@
     d;
 echo 'this is vaware commit contents';
 this is aa;
+this is bb;
