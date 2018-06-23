@@ -1,6 +1,7 @@
 <?php
     include 'Config/config.php';
     echo 'this is vmware';
-    $a = 123;
+    'this is new contents';
     $b = 'vaware';
     dd;
+    echo 'echo this is windows o';
