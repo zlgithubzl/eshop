@@ -6,3 +6,4 @@
     echo 'echo this is windows o';
     d;
 echo 'this is vaware commit contents';
+this is bb;
