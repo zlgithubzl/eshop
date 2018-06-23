@@ -3,5 +3,6 @@
     echo 'this is vmware';
     'this is new contents';
     $b = 'vaware';
-    dd;
     echo 'echo this is windows o';
+    d;
+echo 'this is vaware commit contents';
