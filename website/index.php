@@ -3,4 +3,5 @@
     echo 'this is vmware';
     $a = 123;
     $b = 'vaware';
-    dd;
+    d;
+echo 'this is vaware commit contents';
